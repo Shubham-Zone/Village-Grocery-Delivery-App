@@ -18,7 +18,7 @@ To get started with the Village Grocery Delivery App, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Shubham-Zone/VillageGroceryDelivery.git
+   git clone https://github.com/Shubham-Zone/Village-Grocery-Delivery-App.git
    ```
 
 2. Ensure you have Flutter installed. If not, follow the instructions on [Flutter's official website](https://flutter.dev/docs/get-started/install) for installation.
