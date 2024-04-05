@@ -44,42 +44,42 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBIQHRxbrPjkQVF__IgiIQUVbrC7ipU24s',
-    appId: '1:961630830854:web:9b5183cb76435ae3e45e87',
-    messagingSenderId: '961630830854',
-    projectId: 'grocery-e7636',
-    authDomain: 'grocery-e7636.firebaseapp.com',
-    databaseURL: 'https://grocery-e7636-default-rtdb.firebaseio.com',
-    storageBucket: 'grocery-e7636.appspot.com',
-    measurementId: 'G-ZXRXRTEYB7',
+    apiKey: 'YOUR_WEB_API_KEY',
+    appId: 'YOUR_WEB_APP_ID',
+    messagingSenderId: 'YOUR_WEB_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_WEB_PROJECT_ID',
+    authDomain: 'YOUR_WEB_AUTH_DOMAIN',
+    databaseURL: 'YOUR_WEB_DATABASE_URL',
+    storageBucket: 'YOUR_WEB_STORAGE_BUCKET',
+    measurementId: 'YOUR_WEB_MEASUREMENT_ID',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBLixe5QZU8JJJKgJnBmnOYWq7iulQdeBI',
-    appId: '1:961630830854:android:a934f821d6fc9c38e45e87',
-    messagingSenderId: '961630830854',
-    projectId: 'grocery-e7636',
-    databaseURL: 'https://grocery-e7636-default-rtdb.firebaseio.com',
-    storageBucket: 'grocery-e7636.appspot.com',
+    apiKey: 'YOUR_ANDROID_API_KEY',
+    appId: 'YOUR_ANDROID_APP_ID',
+    messagingSenderId: 'YOUR_ANDROID_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_ANDROID_PROJECT_ID',
+    databaseURL: 'YOUR_ANDROID_DATABASE_URL',
+    storageBucket: 'YOUR_ANDROID_STORAGE_BUCKET',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCvyLLarEy6oaBKOQIVcGL5dU6md88Mwbo',
-    appId: '1:961630830854:ios:d90863cd114703aae45e87',
-    messagingSenderId: '961630830854',
-    projectId: 'grocery-e7636',
-    databaseURL: 'https://grocery-e7636-default-rtdb.firebaseio.com',
-    storageBucket: 'grocery-e7636.appspot.com',
-    iosBundleId: 'com.ashish.groceryapp',
+    apiKey: 'YOUR_IOS_API_KEY',
+    appId: 'YOUR_IOS_APP_ID',
+    messagingSenderId: 'YOUR_IOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_IOS_PROJECT_ID',
+    databaseURL: 'YOUR_IOS_DATABASE_URL',
+    storageBucket: 'YOUR_IOS_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_IOS_BUNDLE_ID',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCvyLLarEy6oaBKOQIVcGL5dU6md88Mwbo',
-    appId: '1:961630830854:ios:897826f0d1051f95e45e87',
-    messagingSenderId: '961630830854',
-    projectId: 'grocery-e7636',
-    databaseURL: 'https://grocery-e7636-default-rtdb.firebaseio.com',
-    storageBucket: 'grocery-e7636.appspot.com',
-    iosBundleId: 'com.ashish.groceryapp.RunnerTests',
+    apiKey: 'YOUR_MACOS_API_KEY',
+    appId: 'YOUR_MACOS_APP_ID',
+    messagingSenderId: 'YOUR_MACOS_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_MACOS_PROJECT_ID',
+    databaseURL: 'YOUR_MACOS_DATABASE_URL',
+    storageBucket: 'YOUR_MACOS_STORAGE_BUCKET',
+    iosBundleId: 'YOUR_MACOS_BUNDLE_ID',
   );
 }
