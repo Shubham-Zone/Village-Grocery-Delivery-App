@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "961630830854",
-    "firebase_url": "https://grocery-e7636-default-rtdb.firebaseio.com",
-    "project_id": "grocery-e7636",
-    "storage_bucket": "grocery-e7636.appspot.com"
+    "project_number": "REPLACED_PROJECT_NUMBER",
+    "firebase_url": "https://REPLACED_FIREBASE_URL",
+    "project_id": "REPLACED_PROJECT_ID",
+    "storage_bucket": "REPLACED_STORAGE_BUCKET"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:961630830854:android:a934f821d6fc9c38e45e87",
+        "mobilesdk_app_id": "REPLACED_MOBILE_APP_ID",
         "android_client_info": {
-          "package_name": "com.ashish.groceryapp"
+          "package_name": "REPLACED_PACKAGE_NAME_1"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBLixe5QZU8JJJKgJnBmnOYWq7iulQdeBI"
+          "current_key": "REPLACED_API_KEY_1"
         }
       ],
       "services": {
@@ -27,15 +27,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:961630830854:android:301f41df3c7afd85e45e87",
+        "mobilesdk_app_id": "REPLACED_MOBILE_APP_ID",
         "android_client_info": {
-          "package_name": "com.example.grocery_admin"
+          "package_name": "REPLACED_PACKAGE_NAME_2"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBLixe5QZU8JJJKgJnBmnOYWq7iulQdeBI"
+          "current_key": "REPLACED_API_KEY_2"
         }
       ],
       "services": {
@@ -45,5 +45,5 @@
       }
     }
   ],
-  "configuration_version": "1"
+  "configuration_version": "REPLACED_CONFIGURATION_VERSION"
 }
